@@ -6,7 +6,7 @@ this is a program that turns your useless number pad into a fully functioning st
 
 it also supports reading numbers from your clipboard as well so after you had 7 in your clipboard you can press * and then 3 and then it will place 14 in your clipboard
 
-basically just for simple calculations you need quickly, it doesnt support decimals or anything, mainly because im too lazy to find an alternative to bc (bc -l gives me ugly trailing zeros and python uses IEEE 754 double-precision so the arithmetic is horribly inaccurate)
+basically just for simple calculations you need quickly
 
 ## prequisities
 
