@@ -10,8 +10,4 @@ basically just for simple calculations you need quickly
 
 ## prequisities
 
-- bash
-- bc
-- xbindkeys
-- xclip
 - xorg-xev for arch, x11-utils for debian
